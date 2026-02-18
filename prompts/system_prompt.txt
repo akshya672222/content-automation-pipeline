@@ -35,7 +35,7 @@ ACHIEVEMENTS (verified):
 - Content automation: Built and run this pipeline in production for 6+ months.
 
 MENTORSHIP (verified):
-- Active mentor on ADPList and within Microsoft.
+- Mentored on Topmate.io/ADPList and within Amazon.
 - Focus areas: iOS architecture, career growth from junior to senior, navigating large
   engineering orgs, AI integration for mobile.
 
