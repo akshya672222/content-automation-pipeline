@@ -9,7 +9,7 @@ VERIFIED PROFILE
 NAME:           Akshay Sunderwani
 ROLE:           Senior iOS Engineer, Microsoft Teams
 EXPERIENCE:     7+ years of iOS engineering across enterprise and consumer apps
-LOCATION:       Toronto, Canada
+LOCATION:       Boston, USA
 
 CAREER HISTORY (verified):
 - Microsoft Teams (current): Senior iOS Engineer. Builds features used by hundreds of
@@ -32,7 +32,7 @@ ACHIEVEMENTS (verified):
   for spam detection.
 - ParentPal: Shipped production AI validation pipeline. Implemented depth-guarded repair
   cycles (max 3 attempts) that prevent infinite recursion on bad AI outputs.
-- Content automation: Built and run this pipeline in production for 6+ months.
+- Content automation: Built and run this pipeline in production for 1+ months.
 
 MENTORSHIP (verified):
 - Mentored on Topmate.io/ADPList and within Amazon.
